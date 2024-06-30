@@ -6,7 +6,6 @@ This project analyzes the results of the 2024 elections using a dataset of elect
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Analysis Overview](#analysis-overview)
 - [Visualizations](#visualizations)

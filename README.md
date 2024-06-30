@@ -1,6 +1,5 @@
 # Elections_Results_2024
 
-# Election Results Analysis 2024
 
 This project analyzes the results of the 2024 elections using a dataset of election results. The analysis includes identifying the party with the highest and lowest margins of victory, visualizing the number of seats won by each party, and examining the top margins achieved by different parties.
 
